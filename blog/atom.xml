@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ProjectNASVI.github.io/blog</id>
+    <title>Project NASVI Blog</title>
+    <updated>2024-10-27T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ProjectNASVI.github.io/blog"/>
+    <subtitle>Project NASVI Blog</subtitle>
+    <icon>https://ProjectNASVI.github.io/img/00j.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://ProjectNASVI.github.io/blog/welcome</id>
+        <link href="https://ProjectNASVI.github.io/blog/welcome"/>
+        <updated>2024-10-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[hi evryone this is first post]]></summary>
+        <content type="html"><![CDATA[<p>hi evryone this is first post</p>]]></content>
+        <author>
+            <name>Ajit Singh Rathore</name>
+            <uri>https://github.com/ProjectNASVI</uri>
+        </author>
+        <category label="blog" term="blog"/>
+    </entry>
+</feed>

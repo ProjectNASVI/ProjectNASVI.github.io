@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknasvi=self.webpackChunknasvi||[]).push([[121],{8070:s=>{s.exports=JSON.parse('{"tags":[{"label":"blog","permalink":"/blog/tags/blog","description":"blog tag description","count":1}]}')}}]);
